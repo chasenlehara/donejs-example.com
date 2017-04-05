@@ -1,5 +1,7 @@
 # example.com
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/chasenlehara/donejs-example.com.svg)](https://greenkeeper.io/)
+
 Welcome to the example.com DoneJS application!
 
 ## Getting started
